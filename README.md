@@ -5,7 +5,7 @@ Este projeto é fictício realizado no Stage 05 no Explorer da Rocketseat.
 
 É um temporizador de foco estilo pomodoro.
 
-Com a finalidade de treinar HTML(acessibilidade, semântica) e CSS(design, usabilidade) e JavaScript().
+Com a finalidade de treinar HTML(acessibilidade, semântica) e CSS(design, usabilidade) e JavaScript(DOM, callback, Factory).
 
 ## Funcionalidades
 
